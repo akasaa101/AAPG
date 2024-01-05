@@ -1,7 +1,8 @@
 repo_name: akasaa101/AAPG
 report_id: 40e11812476bca17ec1c98ca2dba211a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T08:46:30+00:00'
+timestamp: '2024-01-05T08:32:16+00:00'
 requested_by: nightowl131
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/AAPG
   detection_source: Repo Metadata
